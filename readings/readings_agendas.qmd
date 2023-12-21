@@ -1,0 +1,18 @@
+---
+title: "Overview"
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+    toc-location: left
+---
+
+Refer to this page for upcoming and prior readings and agenda notes!
+
+Typical meetings will (very loosely) follow this structure.
+
+1. Group Check-In
+2. Questions & Housekeeping
+3. Reading Review
+4. Wrap-Up & Next Steps

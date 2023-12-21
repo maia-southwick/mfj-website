@@ -1,0 +1,11 @@
+---
+title: "People"
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+    sidebar: false
+---
+
+This page will eventually feature our members!
