@@ -1,0 +1,28 @@
+---
+title: "1/2024: Getting Started - MS"
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+---
+
+# Meeting Items
+* [ ] Introductions
+* [ ] Research Goals & Group Goals
+* [ ] Discussion lead sign-ups
+
+# Reading & Reference
+Please include the relevant bibliography here.
+*none today*
+
+# Discussion Questions
+*none today*
+
+# Key Takeaways or Quotes
+> tbd
+
+
+# Next Time
+* [ ] Discussion leading sign-ups
+

@@ -1,14 +1,66 @@
 ---
-title: "mrad-website"
+title: "Moral Reasoning Across Disciplines (MRAD)"
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+    sidebar: false
 ---
 
-This is a Quarto website.
+# ☀️ Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Thank you for hopping on this site! This will be the landing page for our meetings. The full site will feature:
 
-```{r}
-1 + 1
+1. Meeting Schedule
+2. Discussion Guidelines
+3. Agendas & Readings
+4. Goals of the Reading Group
+5. People of the Group
 
-library(usethis)
+Please provide any feedback on the structure or organization of information on this site (email is: msouthwick@ucdavis.edu).
 
-```
+# 📅 Schedule
+
+| Date     | Topic        | Leader  | Reading  |
+|----------|--------------|---------|----------|
+| 01/12/24 | Introduction | Maia S. | *None*   |
+: {.striped .hover tbl-colwidths="[11,49,20,20]"}
+
+# 📑 Discussion Guidelines
+
+::: panel-tabset
+## Participant
+
+### Being Open to Learning
+
+-   What do you hope to learn from the discussion leader's field?
+
+### Showing Up With Your Perspective
+
+-   How can your field further inform the work presented today?
+
+### Sharing Resources
+
+-   After reading the article, did it remind you of anything you've read previously? If so, please be prepared to share with the discussion leader and/or group.
+
+## Discussion Lead
+
+### Choosing a Paper
+
+-   What is a paper that ignited your passion for research?
+-   What is a paper that is representative of your research interests?
+-   What is a paper from your field that you think everyone should read?
+
+### Crafting Discussion Questions
+
+-   Do you want readers to be primed with any information or set with a certain mindset before reading the paper?
+-   What are the key takeaways you want readers to have after reading?
+-   What excited you (or did not excite you) about this paper? How can you communicate that to others?
+-   How does your research expand the field, especially in light of the paper we read?
+
+### Logistics
+-   Please share your a .pdf of your article with the group. Maia will upload a copy into the relevant agenda page on the site.
+-   Please share any discussion questions too.
+-   If there are any good summary quotes from the text, please share them too! Maia will add them to the agenda.
+:::
