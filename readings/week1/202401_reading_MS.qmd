@@ -2,7 +2,7 @@
 title: "1/2024: Getting Started - MS"
 format:
   html:
-    theme: solar
+    theme: sandstone
     css: styles.css
     toc: true
 ---

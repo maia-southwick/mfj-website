@@ -2,7 +2,7 @@
 title: "Commitments: Now & Looking Forward"
 format:
   html:
-    theme: solar
+    theme: sandstone
     css: styles.css
     toc: true
     sidebar: false
@@ -15,6 +15,6 @@ I want to create a space for researchers and applied practitioners to exchange i
 Current expectations are to first, build a small UCD community of graduate students who are interested in moral reasoning, fairness, justice, and other related concepts in their research. This would begin with an initial exchange of ideas (e.g., a reading group) and snowball into other activities such as community engagement, presentation of research, and collaboration. The more people the better, and so we want to set-up this reading group for long-term success in a sustainable way. Eventual governance positions will be set into place.
 
 ## Commitment to Equity, Diversity, & Inclusion
-Justice is inseparable from discussions surrounding morality, moral reasoning, and moral development.
+Justice and fairness is inseparable from discussions surrounding morality, moral reasoning, and moral development.
 
-Any endeavor in creating an inclusive, multi-disciplinary group dedicated to the study of moral reasoning and development must address systemic racism and the oppression of minoritized identities in our society.
+Any endeavor in creating an inclusive, multi-disciplinary group dedicated to the study of moral reasoning and development must consider systemic racism and the oppression of systematically disadvantaged populations in our society.
