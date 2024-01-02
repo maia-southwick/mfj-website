@@ -28,7 +28,7 @@ website:
       - 'readings/week1/202401_reading_MS.qmd'
 format:
   html:
-    theme: solar
+    theme: sandstone
     css: styles.css
     toc: true
 

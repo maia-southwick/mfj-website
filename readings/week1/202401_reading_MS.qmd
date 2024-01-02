@@ -9,15 +9,15 @@ format:
 
 # Meeting Items
 * [ ] Introductions
-* [ ] Research Goals & Group Goals
+* [ ] Goals
 * [ ] Discussion lead sign-ups
 
+<!-- 
 # Reading & Reference
 Please include the relevant bibliography here.
 *none today*
 
-# Discussion Questions
-*none today*
+# Discussion Questions *none today*
 
 # Key Takeaways or Quotes
 > tbd
@@ -25,4 +25,6 @@ Please include the relevant bibliography here.
 
 # Next Time
 * [ ] Discussion leading sign-ups
+
+-->
 
