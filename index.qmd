@@ -2,7 +2,7 @@
 title: "Moral Reasoning Across Disciplines (MRAD)"
 format:
   html:
-    theme: solar
+    theme: sandstone
     css: styles.css
     toc: true
     sidebar: false
@@ -10,7 +10,7 @@ format:
 
 # ☀️ Welcome!
 
-Thank you for hopping on this site! This will be the landing page for our meetings. The full site will feature:
+Thank you for hopping on this site! This will be the landing page for our meetings. Look around and you'll find:
 
 1. Meeting Schedule
 2. Discussion Guidelines
@@ -18,13 +18,11 @@ Thank you for hopping on this site! This will be the landing page for our meetin
 4. Goals of the Reading Group
 5. People of the Group
 
-Please provide any feedback on the structure or organization of information on this site (email is: msouthwick@ucdavis.edu).
-
 # 📅 Schedule
 
 | Date     | Topic        | Leader  | Reading  |
 |----------|--------------|---------|----------|
-| 01/12/24 | Introduction | Maia S. | *None*   |
+| TBD      | Introduction | Maia S. | *None*   |
 : {.striped .hover tbl-colwidths="[11,49,20,20]"}
 
 # 📑 Discussion Guidelines
@@ -38,11 +36,11 @@ Please provide any feedback on the structure or organization of information on t
 
 ### Showing Up With Your Perspective
 
--   How can your field further inform the work presented today?
+-   How can your expertise further inform or build on top of the work presented today?
 
 ### Sharing Resources
 
--   After reading the article, did it remind you of anything you've read previously? If so, please be prepared to share with the discussion leader and/or group.
+-   After reading the article, did it remind you of anything you've read or seen previously? If so, please be prepared to share with the discussion leader and/or group.
 
 ## Discussion Lead
 
@@ -50,7 +48,7 @@ Please provide any feedback on the structure or organization of information on t
 
 -   What is a paper that ignited your passion for research?
 -   What is a paper that is representative of your research interests?
--   What is a paper from your field that you think everyone should read?
+-   What is a paper from your discipline that you think everyone should read?
 
 ### Crafting Discussion Questions
 
@@ -60,7 +58,7 @@ Please provide any feedback on the structure or organization of information on t
 -   How does your research expand the field, especially in light of the paper we read?
 
 ### Logistics
--   Please share your a .pdf of your article with the group. Maia will upload a copy into the relevant agenda page on the site.
+-   Please share your a .pdf of your article with the group. We will upload a copy into the relevant agenda page on the site.
 -   Please share any discussion questions too.
--   If there are any good summary quotes from the text, please share them too! Maia will add them to the agenda.
+-   If there are any good summary quotes from the text, please share them too! We will add them to the agenda.
 :::
