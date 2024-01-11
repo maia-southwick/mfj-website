@@ -20,9 +20,9 @@ Thank you for hopping on this site! This will be the landing page for our meetin
 
 # 📅 Schedule
 
-| Date     | Topic        | Leader  | Reading  |
-|----------|--------------|---------|----------|
-| TBD      | Introduction | Maia S. | *None*   |
+| Date                 | Topic        | Leader  | Reading  |
+|----------------------|--------------|---------|----------|
+| Tues., Jan. 16, 2024 | Introduction | Maia S. | *None*   |
 : {.striped .hover tbl-colwidths="[11,49,20,20]"}
 
 # 📑 Discussion Guidelines
@@ -36,29 +36,31 @@ Thank you for hopping on this site! This will be the landing page for our meetin
 
 ### Showing Up With Your Perspective
 
--   How can your expertise further inform or build on top of the work presented today?
+-   How can your expertise further inform, build on, or learn from the work presented today?
 
 ### Sharing Resources
 
--   After reading the article, did it remind you of anything you've read or seen previously? If so, please be prepared to share with the discussion leader and/or group.
+-   After reading the work, did it remind you of anything you've read or seen previously? If so, please be prepared to share with the discussion leader and/or group.
 
 ## Discussion Lead
 
 ### Choosing a Paper
+Below are a few guiding questions for choosing a work to share with the group. 
 
--   What is a paper that ignited your passion for research?
--   What is a paper that is representative of your research interests?
--   What is a paper from your discipline that you think everyone should read?
+-   What is a written work that ignited your passion for pursuing a graduate degree in your field?
+-   What is a written work that is representative of your research interests?
+-   What is a written work from your discipline that you think everyone should read?
+-   What is a written work that either challenged your perspective or someone elses that you think everyone should read?
 
 ### Crafting Discussion Questions
 
--   Do you want readers to be primed with any information or set with a certain mindset before reading the paper?
+-   Do you want readers to be primed with any information or set with a certain mindset before reading the work?
 -   What are the key takeaways you want readers to have after reading?
--   What excited you (or did not excite you) about this paper? How can you communicate that to others?
+-   What excited you (or did not excite you) about this work? How can you communicate that to others?
 -   How does your research expand the field, especially in light of the paper we read?
 
 ### Logistics
--   Please share your a .pdf of your article with the group. We will upload a copy into the relevant agenda page on the site.
+-   Please share your a .pdf of your written work with the group. We will upload a copy into the relevant agenda page on the site and/or share in an email thread.
 -   Please share any discussion questions too.
 -   If there are any good summary quotes from the text, please share them too! We will add them to the agenda.
 :::

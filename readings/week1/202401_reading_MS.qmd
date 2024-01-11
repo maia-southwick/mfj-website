@@ -1,5 +1,5 @@
 ---
-title: "1/2024: Getting Started - MS"
+title: "Jan. 16th, 2024: Getting Started - MS"
 format:
   html:
     theme: sandstone
@@ -8,9 +8,10 @@ format:
 ---
 
 # Meeting Items
-* [ ] Introductions
-* [ ] Goals
+* [ ] Introductions: name, program, research interests, icebreaker
+* [ ] Goals: gathering and setting expectations
 * [ ] Discussion lead sign-ups
+* [ ] Feedback & Collaboration: voicing preferences for format, place, time, etc.
 
 <!-- 
 # Reading & Reference
