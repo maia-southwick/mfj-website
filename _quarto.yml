@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Moral Reasoning Across Disciplines"
+  title: "Morality, Fairness, & Justice Across Disciplines"
   navbar:
     left:
       - text: "Home" 
