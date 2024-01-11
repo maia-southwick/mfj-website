@@ -1,5 +1,5 @@
 ---
-title: "Moral Reasoning Across Disciplines (MRAD)"
+title: "Morality, Fairness, & Justice Across Disciplines"
 format:
   html:
     theme: sandstone
