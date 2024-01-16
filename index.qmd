@@ -18,11 +18,16 @@ Thank you for hopping on this site! This will be the landing page for our meetin
 4. Goals of the Reading Group
 5. People of the Group
 
-# 📅 Schedule
+# 📅 WQ 2024 Schedule
 
-| Date                 | Topic        | Leader  | Reading  |
-|----------------------|--------------|---------|----------|
-| Tues., Jan. 16, 2024 | Introduction | Maia S. | *None*   |
+| Date           | Topic        | Leader  | Reading  |
+|----------------|--------------|---------|----------|
+| Tues., Jan. 16 | Introduction | Maia S. | *None*   |
+| Tues., Jan. 30 | *TBD*        | *TBD*   | *TBD *   |
+| Tues., Feb. 13 | *TBD*        | *TBD*   | *TBD *   |
+| Tues., Feb. 27 | *TBD*        | *TBD*   | *TBD *   |
+| Tues., Mar. 12 | *TBD*        | *TBD*   | *TBD *   |
+| Tues., Mar. 26 | ***Spring Break!***        | ***None***| ***None** |
 : {.striped .hover tbl-colwidths="[11,49,20,20]"}
 
 # 📑 Discussion Guidelines
