@@ -1,5 +1,5 @@
 ---
-title: "Jan. 16th, 2024: Getting Started - MS"
+title: "01/16/2024: Getting Started"
 format:
   html:
     theme: sandstone
@@ -8,11 +8,20 @@ format:
 ---
 
 # Meeting Items
-* [ ] Introductions: name, program, research interests, icebreaker
-* [ ] Goals: gathering and setting expectations
-* [ ] Discussion lead sign-ups
-* [ ] Feedback & Collaboration: voicing preferences for format, place, time, etc.
 
+-   [ ] Introductions
+    -   Go over: name, graduate program, research interests, icebreaker
+-   [ ] Goals 
+    -   Addressing initial intentions.
+    -   Gauging needs: What are folks interested in? What do folks need?
+    -   Setting expectations & (no) boundaries.
+-   [ ] Discussion lead sign-ups
+    -   Four opportunities this quarter.
+    -   Emphasize: **Non-stressful**!
+-   [ ] Feedback & Collaboration
+    -   Review preferences on format, time, location, etc.
+
+```{=html}
 <!-- 
 # Reading & Reference
 Please include the relevant bibliography here.
@@ -28,4 +37,4 @@ Please include the relevant bibliography here.
 * [ ] Discussion leading sign-ups
 
 -->
-
+```
